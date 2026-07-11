@@ -1,0 +1,32 @@
+# GİZLİ ŞİFRELER VE ORTAM DEĞİŞKENLERİ
+.env
+.env.*
+!.env.example
+application-prod.properties
+application-local.properties
+
+# İDE VE EDİTÖR DOSYALARI
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İŞLETİM SİSTEMİ DOSYALARI
+.DS_Store
+Thumbs.db
+
+# BACKEND GEREKSİZ DOSYALARI
+accreditation/target/
+accreditation/*.jar
+accreditation/compile.log
+accreditation/compile_errors.txt
+accreditation/compile_output.txt
+accreditation/compile_output_utf8.txt
+
+# FRONTEND GEREKSİZ DOSYALARI
+accreditation-frontend/node_modules/
+accreditation-frontend/.next/
+accreditation-frontend/out/
+
+# ROOT GEREKSİZ DOSYALARI
+node_modules/
