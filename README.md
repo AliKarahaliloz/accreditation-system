@@ -1,4 +1,4 @@
-# MEDEK: Sistem Değerlendirme ve Kullanım Senaryoları (Use Cases) Raporu
+# Sistem Değerlendirme ve Kullanım Senaryoları (Use Cases) Raporu
 
 ## 1. Sistemin Temel Amacı ve Özellikleri (Features)
 
